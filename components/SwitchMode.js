@@ -1,6 +1,5 @@
 import React from "react";
 import { useTheme } from "next-themes";
-import NoSSR from "react-no-ssr";
 
 export default function SwitchMode() {
   const { theme, setTheme } = useTheme();
@@ -8,7 +7,6 @@ export default function SwitchMode() {
     setTheme(theme === "dark" ? "light" : "dark");
   };
   return (
-    <NoSSR>
       <div className="fixed xl:bottom-8 xl:right-8 bottom-5 right-5 z-50">
         <button
           onClick={handleDarkMode}
@@ -39,6 +37,5 @@ export default function SwitchMode() {
           )}
         </button>
       </div>
-    </NoSSR>
   );
 }
