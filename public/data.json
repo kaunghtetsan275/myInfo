@@ -1,0 +1,87 @@
+[
+    {
+      "_id": 1,
+      "title": "Health+",
+      "category": "Mobile Application",
+      "description": "Abdi Health merupakan aplikasi untuk membantu dokter untuk mengolah data pasien yang ada di rumah sakitnya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 2,
+      "title": "Bibliotecca",
+      "category": "Web Application",
+      "description": "Absensi Setda Tasikmalaya merupakan aplikasi untuk mengolah data absensi setda tasikmalaya. Memiliki fitur deteksi fake gps agar pegawai tidak melakukan kecurangan",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 3,
+      "title": "Floor Plan Scanning Using Computer Vision and OCR",
+      "category": "AI Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    }
+    ,
+    {
+      "_id": 4,
+      "title": "Pyidaungsu",
+      "category": "AI Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 5,
+      "title": "POS Sale Management",
+      "category": "Software Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 6,
+      "title": "Predicting Air Pollution Using Linear Regression",
+      "category": "AI Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 7,
+      "title": "Restaurant Ordering and Management System",
+      "category": "Web Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 8,
+      "title": "Indie Game Dev Challenge",
+      "category": "Software Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 9,
+      "title": "Spelling App For Child Education",
+      "category": "Mobile Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 10,
+      "title": "Counting Rebars Using Object Detection",
+      "category": "AI Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 11,
+      "title": "Arbitrary-oriented Object Detection in Aerial Images",
+      "category": "AI Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    },
+    {
+      "_id": 12,
+      "title": "Popular Keyword Finder",
+      "category": "Web Application",
+      "description": "Kasadaya adalah aplikasi untuk masyarakat melakukan pengepulan minyak jelantah di kasadaya. Aplikasi ini dibuat dengan React Native dan Laravel",
+      "img": "/img/prj-cat.png"
+    }
+  ]
